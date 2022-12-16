@@ -1,3 +1,4 @@
+/*
 package com.in.web;
 
 import org.junit.jupiter.api.Test;
@@ -11,3 +12,4 @@ class WebserviceApplicationTests {
 	}
 
 }
+*/
