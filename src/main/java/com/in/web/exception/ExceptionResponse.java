@@ -1,4 +1,4 @@
-package com.in.web.controller;
+package com.in.web.exception;
 
 import java.util.Date;
 

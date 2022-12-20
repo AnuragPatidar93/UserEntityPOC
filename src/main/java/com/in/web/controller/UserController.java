@@ -1,10 +1,10 @@
 package com.in.web.controller;
 
 import com.in.web.entity.User;
+import com.in.web.exception.UserNotFoundException;
 import com.in.web.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.MessageSource;
-import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
